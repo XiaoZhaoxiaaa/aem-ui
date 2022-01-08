@@ -1,7 +1,7 @@
 /*
  * @Author: zx.xiao
  * @Date: 2022-01-08 11:49:41
- * @LastEditTime: 2022-01-08 11:52:33
+ * @LastEditTime: 2022-01-08 12:05:56
  * @LastEditors: zx.xiao
  * @FilePath: /aem-ui/src/index.ts
  * @Description: 
@@ -21,10 +21,10 @@ export { default as DescriptionsPlus } from './components/descriptions/descripti
 
 // input
 export { default as InputAddonBefore } from './components/input/input-addon-before';
-export { default as InputForm } from './components/input/input-form';
+export { default as InputForm } from './components/input/Input-form';
 export { default as InputStringNumber } from './components/input/input-string-number';
 export { default as InputRange } from './components/input/input-range';
-export { default as InputRenderForm } from './components/input/input-render-form';
+export { default as InputRenderForm } from './components/input/Input-render-form';
 export { default as InputSelectValue } from './components/input/input-select-value';
 
 // label
