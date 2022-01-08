@@ -1,3 +1,11 @@
+/*
+ * @Author: zx.xiao
+ * @Date: 2022-01-08 11:49:41
+ * @LastEditTime: 2022-01-08 11:52:33
+ * @LastEditors: zx.xiao
+ * @FilePath: /aem-ui/src/index.ts
+ * @Description: 
+ */
 // card
 export { default as CollapsibleCard } from './components/card/collapsible-Card';
 // code-editor
